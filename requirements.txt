@@ -1,0 +1,10 @@
+openai>=1.0.0
+gradio>=4.0.0
+gTTS
+google-api-python-client
+speechrecognition
+openai-whisper
+numpy
+torch
+soundfile
+pyttsx3
