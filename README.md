@@ -9,7 +9,7 @@ An intelligent assistant built with **GPT-4o**, capable of:
 - 🔊 Replying back with **voice output** (using gTTS)
 
 ## 🚀 Live Demo
-Coming soon...
+https://huggingface.co/spaces/nwankwolinus/gpt-4o-mini_chatbot/tree/main
 
 ## 🔧 Features
 
